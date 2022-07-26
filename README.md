@@ -8,5 +8,5 @@ cargo run cluster keypair(file) decimals mint_amount
 
 cluster: devnet or mainnet
 
-# example - devnet, 8 decimals spl-token, mint 10
-cargo run devent ./account.json 8 10000000000
+# devnet, 9 decimals spl-token
+cargo run devent ./account.json 9 10000000000
