@@ -6,11 +6,11 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-spl-token = "3.3.0"
-solana-program = "1.11.4"
-solana-sdk = "1.11.4"
-solana-client = "1.11.4"
-spl-associated-token-account = "1.0.3"
+spl-token = "3.5.0"
+solana-program = "1.15.2"
+solana-sdk = "1.15.2"
+solana-client = "1.15.2"
+spl-associated-token-account = "1.1.2"
 
 [dev-dependencies]
-solana-validator = "1.11.4"
+solana-validator = "1.15.2"
